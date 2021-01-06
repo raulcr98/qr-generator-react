@@ -3,7 +3,7 @@ import QRCode from "react-qr-code";
 import './App.css';
 
 function App() {
-  const [text, setText] = useState("Hola Mundo");
+  const [text, setText] = useState("Hola Mundo desde Codev");
 
   return (
     <div className="App">
